@@ -26,7 +26,7 @@ print(result)
 ```
 
 ## [ Result ]
-![[Pasted image 20240805221448.png]]
+![png](/Attachment/Pasted-image-20240805221448.png)
 
 
 **What if you want to save the image directly without displaying it?**
@@ -100,7 +100,7 @@ cv2.destroyAllWindows()
 ```
 
 ## [ Result ]
-![[Pasted image 20240805221901.png]]
+![png](/Attachment/Pasted-image-20240805221901.png)
 
 # Python Syntax and Function
 
