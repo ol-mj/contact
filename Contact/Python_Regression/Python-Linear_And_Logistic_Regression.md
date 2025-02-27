@@ -49,7 +49,7 @@ plt.show()
 
 
     
-![png](Python%20-%20Regression/output_1_1.png)
+![png](output_1_1.png)
 
 
 # Rogistic Regression
