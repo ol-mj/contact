@@ -29,7 +29,7 @@ cv2.waitkey(n)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240805223439.png|500]]
+![png](/Attachment/Pasted-image-20240805223439.png)
 
 ## [ Set as a ratio ]
 
@@ -55,7 +55,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240805223643.png|400]]
+![png](/Attachment/Pasted-image-20240805223643.png)
 
 ## [ Interpolation ]
 
@@ -85,7 +85,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 #### < Result >
-![[Pasted image 20240805224909.png]]
+![png](/Attachment/Pasted-image-20240805224909.png)
 
 ### ( Image - Apply interpolation to make Bigger )
 #### < Convert code into words >
@@ -110,7 +110,7 @@ cv2.destroyAllWindows()
 ```
 
 #### < Result >
-![[Pasted image 20240805225123.png]]
+![png](/Attachment/Pasted-image-20240805225123.png)
 
 
 ### ( Video - Set to fixed size )
@@ -146,7 +146,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 #### < Result >
-![[Pasted image 20240806104818.png|400]]
+![png](/Attachment/Pasted-image-20240806104818.png)
 The video plays with the fixed size
 
 ### ( Video - Set as a ratio )
@@ -181,7 +181,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 #### < Result >
-![[Pasted image 20240806105417.png]]
+![png](/Attachment/Pasted-image-20240806105417.png)
 
 # 2. Crop the image
 ## [ Convert code into words ]
@@ -212,7 +212,7 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## [ Result ]
-![[Pasted image 20240806105555.png|400]]
+![png](/Attachment/Pasted-image-20240806105555.png)
 
 # 3. image symmetry
 ## [ Left and right Symmetry ]
@@ -239,7 +239,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240806111117.png]]
+![png](/Attachment/Pasted-image-20240806111117.png)
 
 ## [ Top-to-bottom symmetry ]
 
@@ -265,7 +265,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240806110905.png]]
+![png](/Attachment/Pasted-image-20240806110905.png)
 
 ## [ Top, bottom, Left, Right symmetry ]
 
@@ -290,7 +290,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240806111414.png]]
+![png](/Attachment/Pasted-image-20240806111414.png)
 
 # 4.Rotate an image
 
@@ -317,7 +317,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240806111736.png]]
+![png](/Attachment/Pasted-image-20240806111736.png)
 ## [ Rotate 180 degrees clockwise ]
 ### ( Convert code into words )
 1. import the necessary module
@@ -340,7 +340,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240808213453.png]]
+![png](/Attachment/Pasted-image-20240808213453.png)
 
 ## [ Rotate 90 degrees counterclockwise ]
 ### ( Convert code into words )
@@ -367,7 +367,7 @@ cv2.destroyAllWindows()
 
 ### ( Result )
 
-![[Pasted image 20240808213654.png]]
+![png](/Attachment/Pasted-image-20240808213654.png)
 
 # Python Syntax and Function
 
