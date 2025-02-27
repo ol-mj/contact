@@ -26,7 +26,7 @@ cv2.destroyAllWindows()
 
 ## [ Result ]
 
-![[Pasted image 20240805172216.png|400]]
+![png](/Attachment/Pasted-image-20240805172216.png)
 
 # 2. Change the Color of a part of Image
 ## [ Convert code into words ]
@@ -50,7 +50,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## [ Result ]
-![[Pasted image 20240805173628.png|400]]
+![png](/Attachment/Pasted-image-20240805173628.png)
 
 # 3. Draw straight lines
 
@@ -80,7 +80,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## [ Result ]
-![[Pasted image 20240805173513.png|500]]
+![png](/Attachment/Pasted-image-20240805173513.png)
 # 4. Draw a circle
 
 ## [ Convert code into words ]
@@ -113,7 +113,7 @@ cv2.destroyAllWindows()
 ```
 
 ## [ Result ]
-![[Pasted image 20240805173953.png|400]]
+![png](/Attachment/Pasted-image-20240805173953.png)
 
 # 5. Draw a Square
 ## [ Convert code into words ]
@@ -142,7 +142,7 @@ cv2.destroyAllWindows()
 ```
 
 ## [ Result ]
-![[Pasted image 20240805174327.png|400]]
+![png](/Attachment/Pasted-image-20240805174327.png)
 
 # 6. Draw a Polyline
 ## [ Convert code into words ]
@@ -177,7 +177,7 @@ cv2.destroyAllWindows()
 
 ## [ Result ]
 
-![[Pasted image 20240805220007.png|400]]
+![png](/Attachment/Pasted-image-20240805220007.png)
 
 # Python Function Table
 
