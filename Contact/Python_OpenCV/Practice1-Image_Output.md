@@ -26,7 +26,7 @@ cv2.destroyAllWindows()
 ```
 ## [ Result ]
 
-![[Pasted image 20240805143730.png]]
+![png](/Attachment/Pasted-image-20240805143730.png)
 
 # 2. Check the shape of the array
 
@@ -69,16 +69,16 @@ code flow Interpretation (time series)
 
 # Debug
 
-| Code1 | ![[Pasted image 20240724163059.png]] | ![[Pasted image 20240724162726.png]]<br>![[Pasted image 20240724163406.png]] |
+| Code1 | ![png](/Attachment/Pasted-image-20240724163059.png) | ![png](/Attachment/Pasted-image-20240724162726.png)<br>![png](/Attachment/Pasted-image-20240724163406.png) |
 | ----- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| Code2 | ![[Pasted image 20240724163425.png]] | ![[Pasted image 20240724163337.png]]![[Pasted image 20240724163413.png]]     |
-| Code3 | ![[Pasted image 20240724163952.png]] | ![[Pasted image 20240724164054.png]]![[Pasted image 20240724164202.png]]     |
+| Code2 | ![png](/Attachment/Pasted-image-20240724163425.png) | ![png](/Attachment/Pasted-image-20240724163337.png) ![png](/Attachment/Pasted-image-20240724163413.png)     |
+| Code3 | ![png](/Attachment/Pasted-image-20240724163952.png) | ![png](/Attachment/Pasted-image-20240724164054.png) ![png](/Attachment/Pasted-image-20240724164202.png)     |
 ## Why is only the code in the 3rd row working?
 
-| Code1 | ![[Pasted image 20240724163059.png]] | ![[Pasted image 20240724162726.png]]<br>![[Pasted image 20240724163406.png]] |
+| Code1 | ![png](/Attachment/Pasted-image-20240724163059.png) | ![png](/Attachment/Pasted-image-20240724162726.png)<br>![png](/Attachment/Pasted-image-20240724163406.png) |
 | ----- | ------------------------------------ | ---------------------------------------------------------------------------- |
-| Code2 | ![[Pasted image 20240724163425.png]] | ![[Pasted image 20240724163337.png]]![[Pasted image 20240724163413.png]]     |
-| Code3 | ![[Pasted image 20240724163952.png]] | ![[Pasted image 20240724164054.png]]![[Pasted image 20240724164202.png]]     |
+| Code2 | ![png](/Attachment/Pasted-image-20240724163425.png) | ![png](/Attachment/Pasted-image-20240724163337.png) ![png](/Attachment/Pasted-image-20240724163413.png)     |
+| Code3 | ![png](/Attachment/Pasted-image-20240724163952.png) | ![png](/Attachment/Pasted-image-20240724164054.png) ![png](/Attachment/Pasted-image-20240724164202.png)     |
 
 ### 1 code
 
