@@ -27,7 +27,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### ( Result )
-![[Pasted image 20240808214351.png]]
+![png](/Attachment/Pasted-image-20240808214351.png)
 
 
 # 2. Transform image - blur1 - kernel
@@ -59,7 +59,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ### [ Result ]
-![[Pasted image 20240808231848.png]]
+![png](/Attachment/Pasted-image-20240808231848.png)
 # 3. Transform image - blur1 - Sigma
 
 ### [ Convert code into words]
@@ -90,7 +90,7 @@ cv2.destroyAllWindows()
 ```
 
 ### [ Result ]
-![[Pasted image 20240808231422.png]]
+![png](/Attachment/Pasted-image-20240808231422.png)
 # 4. Image Transform - Perspective1
 
 **Expand the trapezoidal image**
@@ -130,7 +130,7 @@ cv2.destroyAllWindows()
 
 ### [ Result ]
 
-![[Pasted image 20240808225816.png]]
+![png](/Attachment/Pasted-image-20240808225816.png)
 # 5. Image Transform - Perspective2
 
 **Standing rotated images correctly**
@@ -169,8 +169,8 @@ cv2.destroyAllWindows()
 ```
 
 ### [ Result ]
-![[Pasted image 20240808230744.png]]
-![[Pasted image 20240808230654.png|400]]
+![png](/Attachment/Pasted-image-20240808230744.png)
+![png](/Attachment/Pasted-image-20240808230654.png)
 
 
 # Python Syntax and Function
