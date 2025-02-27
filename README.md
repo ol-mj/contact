@@ -24,7 +24,7 @@
    - Study_Regression
       - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md">**Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md**
       - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Logistic_Regression.md">**Logistic_Regression.md**
-      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Logistic_Regression.md">**Naive_Bayes_Classifier.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Naive_Bayes_Classifier.md">**Naive_Bayes_Classifier.md**
 
 
 
