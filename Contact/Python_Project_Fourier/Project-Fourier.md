@@ -37,7 +37,7 @@ plt.show()
 
 
     
-![png](Contact/Python%20-%20Project%20-%20Fourier/output_0_0.png)
+![png](output_0_0.png)
     
 
 
@@ -249,7 +249,7 @@ ax.set_ylabel('An value')
 ax.set_title(f'Top {top_n} Sorted An values with original indices')
 plt.show()
 ```
-![[Pasted image 20240809224507.png]]
+![png](/Attachment/Pasted-image-20240809224507.png)
     
 
 
@@ -329,7 +329,7 @@ for i, value in enumerate(Sub_Bn):
 
 
     
-![png](Contact/Python%20-%20Project%20-%20Fourier/output_3_0.png)
+![png](output_3_0.png)
     
 
 
