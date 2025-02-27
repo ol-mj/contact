@@ -39,9 +39,12 @@ cv2.destroyAllWindows()
 ## [ Result ]
 1. When the video is over and exited
 A video appears
-![[Pasted image 20240805145148.png]]
+
+![png](/Attachment/Pasted-image-20240805145148.png)
+
 The video ends and a string is printed
 No more frame
+<br><br>
 2. When I press q during a video 
 Print Exit by user
 
@@ -98,7 +101,7 @@ cv2.destroyAllWindows()
 
 ## [ Result ]
 
-![[Pasted image 20240805171454.png]]
+![png](/Attachment/Pasted-image-20240805171454.png)
 
 # Analyzing Code
 ## [ Table ]
