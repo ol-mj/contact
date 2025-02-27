@@ -43,7 +43,7 @@ cv2.destroyAllWindows()
 ```
 
 ## [ Result ]
-![[Pasted image 20240809225930.png]]
+![png](/Attachment/Pasted-image-20240809225930.png)
 # 2. Bypass Korean
 
 ## [ Convert code into words ]
@@ -85,7 +85,7 @@ cv2.destroyAllWindows()
 
 
 ## [ Result ]
-![[Pasted image 20240809230956.png]]
+![png](/Attachment/Pasted-image-20240809230956.png)
 
 
 
