@@ -31,4 +31,5 @@ cap.release()
 
 
 
-![[Pasted image 20240808234103.png]]![[Pasted image 20240808234401.png]]
+![png](/Attachment/Pasted-image-20240808234103.png)
+![png](/Attachment/Pasted-image-20240808234401.png)
