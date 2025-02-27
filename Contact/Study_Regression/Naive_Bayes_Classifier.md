@@ -14,7 +14,7 @@ https://angeloyeo.github.io/2020/08/04/naive_bayes.html
 
 그리고 키에 대한 확률밀도함수가 우리에게 주어져있다고 생각한다.
 
-![[Pasted image 20240814125648.jpg]]
+![png](Pasted-image-20240814125648.jpg)
 
 우리는 이제 남자쪽에 키가 175cm일 확률이 높기때문에 당연히 확률상 남자라고 생각할 수 있다.
 
