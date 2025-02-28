@@ -22,9 +22,11 @@
      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Python_Yolov8/Yolov8-Test-Camera.md">**Yolov8-Test-Camera.md**
      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Python_Yolov8/Yolov8-Test-Video.md">**Ylov8-Test-Video.md**
    - Study_Regression
-      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md">**Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md**
-      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Logistic_Regression.md">**Logistic_Regression.md**
-      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study_Regression/Naive_Bayes_Classifier.md">**Naive_Bayes_Classifier.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md">**Linear_Regression-Galerkin_Method_Compared_To_Linear_Regression.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/Logistic_Regression.md">**Logistic_Regression.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/Naive_Bayes_Classifier.md">**Naive_Bayes_Classifier.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/AI_ML_Basic.md">**AI_ML_Basic.md**
+      - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/AE_VAE.md">**AE_VAE.md**
 
 
 
