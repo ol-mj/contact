@@ -48,11 +48,9 @@ No more frame
 2. When I press q during a video 
 Print Exit by user
 
-cv2.imread에서 return값의 구조와 예시를 알려줘
 
- cv2.imread 함수는 이미지 파일을 읽어 numpy 배열로 반환합니다. 반환되는 numpy 배열은 이미지의 픽셀값을 포함하고 있습니다.
-
-예를 들어, 아래는 cv2.imread 함수를 사용하여 이미지 파일을 읽고 해당 이미지의 픽셀값을 출력하는 예시 코드입니다.
+ cv2.imread 함수는 이미지 파일을 읽어 numpy 배열로 반환
+ <br>반환되는 numpy 배열은 이미지의 픽셀값을 포함
 
 ```python
 import cv2
