@@ -62,8 +62,6 @@ image = cv2.imread('example.jpg')
 print(image)
 ```
 
-위 코드를 실행하면, 해당 이미지 파일의 픽셀값이 출력됩니다. 이때 반환되는 numpy 배열은 (높이, 너비, 채널)의 형태를 가지며, 채널 값은 BGR 순서로 되어 있습니다.
-
 # 2. Camera output 
 
 ## [ Convert code into words ]
