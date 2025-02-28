@@ -29,7 +29,7 @@
       - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Study/AE_VAE.md">**AE_VAE.md**
 
 ---
-I learned through these resources and books.
+I have studied using these resources and books.
 - <a href="https://github.com/ol-mj/contact/blob/main/Contact/Reference.md">**Reference.md**
 
 
