@@ -13,5 +13,5 @@
 ![image](https://github.com/user-attachments/assets/7b96fa58-833f-43a7-b039-9d60d3729178)
 ![image](https://github.com/user-attachments/assets/a8001786-24ab-46ce-8ac7-b98b3abfcb62)
 <br>
-이 자료는 공돌이의 수학정리 노트 Variational AutoEncoder편을 제가 이해한 토대로 재구성한 것을 밝힙니다.
+이 자료는 공돌이의 수학정리 노트 Variational AutoEncoder편을 제가 이해한 토대로 재구성한 것을 밝힙니다. <br>
 https://angeloyeo.github.io/2020/10/11/VAE.html
